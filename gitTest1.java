@@ -1,5 +1,5 @@
 package gitTEst;
 
-public class gitTest1 {
+public static void gitTest1(String[] arg) {
 
 }
