@@ -1,5 +1,8 @@
 package gitTEst;
 
-public static void gitTest1(String[] arg) {
-
+public class Main{
+  public static void main(String[] arg) {
+    //commitTest
+  }
 }
+
